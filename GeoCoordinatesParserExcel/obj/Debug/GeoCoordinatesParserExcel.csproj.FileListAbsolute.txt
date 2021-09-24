@@ -1,0 +1,9 @@
+C:\Users\engelbrechti\source\repos\GeoCoordinatesParserExcel\GeoCoordinatesParserExcel\bin\Debug\GeoCoordinatesParserExcel.dll
+C:\Users\engelbrechti\source\repos\GeoCoordinatesParserExcel\GeoCoordinatesParserExcel\bin\Debug\GeoCoordinatesParserExcel.pdb
+C:\Users\engelbrechti\source\repos\GeoCoordinatesParserExcel\GeoCoordinatesParserExcel\bin\Debug\GeoCoordinateParser.dll
+C:\Users\engelbrechti\source\repos\GeoCoordinatesParserExcel\GeoCoordinatesParserExcel\bin\Debug\GeoCoordinateParser.pdb
+C:\Users\engelbrechti\source\repos\GeoCoordinatesParserExcel\GeoCoordinatesParserExcel\obj\Debug\GeoCoordinatesParserExcel.csprojAssemblyReference.cache
+C:\Users\engelbrechti\source\repos\GeoCoordinatesParserExcel\GeoCoordinatesParserExcel\obj\Debug\GeoCoordinatesParserExcel.csproj.CoreCompileInputs.cache
+C:\Users\engelbrechti\source\repos\GeoCoordinatesParserExcel\GeoCoordinatesParserExcel\obj\Debug\GeoCoordinatesParserExcel.csproj.CopyComplete
+C:\Users\engelbrechti\source\repos\GeoCoordinatesParserExcel\GeoCoordinatesParserExcel\obj\Debug\GeoCoordinatesParserExcel.dll
+C:\Users\engelbrechti\source\repos\GeoCoordinatesParserExcel\GeoCoordinatesParserExcel\obj\Debug\GeoCoordinatesParserExcel.pdb

@@ -1,0 +1,9 @@
+C:\Users\engelbrechti\source\repos\GeoCoordinatesParserExcel\GeoCoordinatesParserExcel\bin\Release\GeoCoordinatesParserExcel.dll
+C:\Users\engelbrechti\source\repos\GeoCoordinatesParserExcel\GeoCoordinatesParserExcel\bin\Release\GeoCoordinatesParserExcel.pdb
+C:\Users\engelbrechti\source\repos\GeoCoordinatesParserExcel\GeoCoordinatesParserExcel\bin\Release\GeoCoordinateParser.dll
+C:\Users\engelbrechti\source\repos\GeoCoordinatesParserExcel\GeoCoordinatesParserExcel\bin\Release\GeoCoordinateParser.pdb
+C:\Users\engelbrechti\source\repos\GeoCoordinatesParserExcel\GeoCoordinatesParserExcel\obj\Release\GeoCoordinatesParserExcel.csproj.CoreCompileInputs.cache
+C:\Users\engelbrechti\source\repos\GeoCoordinatesParserExcel\GeoCoordinatesParserExcel\obj\Release\GeoCoordinatesParserExcel.csproj.CopyComplete
+C:\Users\engelbrechti\source\repos\GeoCoordinatesParserExcel\GeoCoordinatesParserExcel\obj\Release\GeoCoordinatesParserExcel.dll
+C:\Users\engelbrechti\source\repos\GeoCoordinatesParserExcel\GeoCoordinatesParserExcel\obj\Release\GeoCoordinatesParserExcel.pdb
+C:\Users\engelbrechti\source\repos\GeoCoordinatesParserExcel\GeoCoordinatesParserExcel\obj\Release\GeoCoordinatesParserExcel.csprojAssemblyReference.cache

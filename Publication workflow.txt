@@ -1,0 +1,2 @@
+Basically, it looks like you have to have a password protected certificate now for self signed certificates.
+So I'm deprecating this. 
